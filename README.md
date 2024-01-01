@@ -5,7 +5,7 @@
 * Telegram网页版不支持语言包.
 -----------------------------------------
 简体语言包：
-* 中文(简体)-ichina:  t.me/setlanguage/ichina
+* 中文(简体)-ichina:  http://t.me/setlanguage/ichina
 * 中文(简体)-聪聪:  t.me/setlanguage/zhcncc
 * 中文(简体)-t.me/setlanguage/classic-zh-cn
 * 中文(简体)-简体:  t.me/setlanguage/classic-zh
