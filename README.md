@@ -49,4 +49,4 @@ Telegram 官方只开放了语言包翻译接口, 官方没有提供中文语言
 如果遇到不能汉化的, 先把Telegram客户端升级新版
 
 
-标签：#语言包
+tg://setlanguage?lang=zhcncc
