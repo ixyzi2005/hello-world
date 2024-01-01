@@ -1,4 +1,4 @@
-✅Telegram语言包分类整理篇
+6✅Telegram语言包分类整理篇
 
 * 支持 Telegram for iOS/Android/macOS/Desktop, Telegram X for iOS/Android 官方客户端
 * 支持 Nicegram/Plus Messager/Unigram 第三方客户端
@@ -50,3 +50,5 @@ Telegram 官方只开放了语言包翻译接口, 官方没有提供中文语言
 
 
 标签：#语言包
+
+tg://setlanguage?lang=zhcncc
